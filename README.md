@@ -2,7 +2,7 @@
 - 👀 I’m interested in App Development
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on my Startup
-- 📫 How to reach me DM me on my insta handle "rohit_gupta_34
+- 📫 How to reach me DM me on my insta handle "decode_red
 
 <!---
 RohitGupta34/RohitGupta34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
